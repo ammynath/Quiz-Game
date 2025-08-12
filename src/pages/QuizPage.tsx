@@ -178,7 +178,7 @@ export default function QuizPage() {
               <span className="font-semibold">{state.score}</span> /{" "}
               {QUESTIONS.length}
             </p>
-            <p className="text-gray-600">Redirecting to leaderboard...</p>
+            <p className="text-gray-800">Redirecting to leaderboard...</p>
           </div>
         </div>
       )}
